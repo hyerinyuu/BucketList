@@ -12,10 +12,10 @@
 
 ## Screenshots
 <div>
-  <img src="https://user-images.githubusercontent.com/56293116/78748909-1c086400-79a8-11ea-88b3-2792f602b8e2.PNG">
+  <img src="https://user-images.githubusercontent.com/56293116/78748911-1dd22780-79a8-11ea-8bc8-daadb20c261c.PNG">
 </div>
 <div>
-  <img src="https://user-images.githubusercontent.com/56293116/78748911-1dd22780-79a8-11ea-8bc8-daadb20c261c.PNG">
+  <img src="https://user-images.githubusercontent.com/56293116/78748909-1c086400-79a8-11ea-88b3-2792f602b8e2.PNG">
 </div>
 
 자세한 내용은 [여기](https://github.com/hyerinyuu/BookReviewProject/blob/master/ReadBookPJPPT.pdf)에서 확인하실 수 있습니다.
